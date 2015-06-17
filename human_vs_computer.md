@@ -1,5 +1,6 @@
 ##Human vs. computer example output
 ####Human is x, computer is o
+####Result: Computer won
 
     $ python3 connect4.py 
     Connect 4 AI by Pierce Stegman
